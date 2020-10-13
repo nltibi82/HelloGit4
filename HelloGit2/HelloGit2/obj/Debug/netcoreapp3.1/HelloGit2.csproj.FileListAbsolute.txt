@@ -1,0 +1,13 @@
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\bin\Debug\netcoreapp3.1\HelloGit2.exe
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\bin\Debug\netcoreapp3.1\HelloGit2.deps.json
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\bin\Debug\netcoreapp3.1\HelloGit2.runtimeconfig.json
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\bin\Debug\netcoreapp3.1\HelloGit2.runtimeconfig.dev.json
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\bin\Debug\netcoreapp3.1\HelloGit2.dll
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\bin\Debug\netcoreapp3.1\HelloGit2.pdb
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\obj\Debug\netcoreapp3.1\HelloGit2.csprojAssemblyReference.cache
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\obj\Debug\netcoreapp3.1\HelloGit2.AssemblyInfoInputs.cache
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\obj\Debug\netcoreapp3.1\HelloGit2.AssemblyInfo.cs
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\obj\Debug\netcoreapp3.1\HelloGit2.csproj.CoreCompileInputs.cache
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\obj\Debug\netcoreapp3.1\HelloGit2.dll
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\obj\Debug\netcoreapp3.1\HelloGit2.pdb
+C:\Users\Tibi\source\repos\HelloGit2\HelloGit2\obj\Debug\netcoreapp3.1\HelloGit2.genruntimeconfig.cache
